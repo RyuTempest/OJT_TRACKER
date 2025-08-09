@@ -88,9 +88,5 @@ pyinstaller --clean --noconfirm ojt_tracker.spec
 - If Windows flags the executable as unrecognized, you may need to click "More info" > "Run anyway" or unblock the file in Properties.
 - If the app cannot write JSON files, run the terminal as a user with write permissions to the `dist/` folder.
 
-### License
-
-Specify your license here.
 
 
-#
