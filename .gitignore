@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+!ojt_tracker.spec
+
+# Logs
+*.log
+
+
